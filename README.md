@@ -4,8 +4,8 @@ nama : Vito Fathoni Adinata
 
 Kesan pertama menggunakan Visual Studio Code:
 
-  #Antarmukanya terlihat profesional,
+    #Antarmukanya terlihat profesional,
 
-  #Latar belakang layarnya gelap (dark mode)
+    #Latar belakang layarnya gelap (dark mode)
 
 ## Tata tertib aturan di Lab
